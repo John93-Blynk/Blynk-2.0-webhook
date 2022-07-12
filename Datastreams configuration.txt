@@ -1,0 +1,27 @@
+ id          Name          Virtual pin          Min/Max          Data type          Sync with latest server value
+------------------------------------------------------------------------------------------------------------------
+ 1-    Segmented Switch        V0                 0/1             integer                        yes
+
+ 2-          URL               V1                 --              string                         yes
+
+ 3-        Button              V2                 0/1             integer                        no
+
+ 4-         Timer              V3                 0/12            integer                        no
+
+ 5-        Status              V4                 --              string                         no
+
+ 6-       Variables            V5                 0/4             integer                        no
+
+ 7-        Values              V6                 --              string                         no
+
+ 8-    Labeled Value 1         V7                 --              string                         yes
+
+ 9-    Labeled Value 2         V8                 --              string                         yes
+
+ 10-   Labeled Value 3         V9                 --              string                         yes
+
+ 11-   Labeled Value 4         V10                --              string                         yes
+
+ 12-   Labeled Value 5         V11                --              string                         yes
+
+ 13-       Reset               V12                0/1             integer                        no
